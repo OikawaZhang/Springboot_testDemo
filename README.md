@@ -61,6 +61,8 @@
 | **Git** | 版本控制 | [Git 下载](https://git-scm.com/downloads) |
 | **Postman** 或 **HTTP 文件** | 测试接口的工具 | [Postman 下载](https://www.postman.com/downloads/) |
 
+JDK和Postman或HTTP 可以直接在IDEA中配置
+
 ### 安装后验证
 
 打开终端（命令提示符 / PowerShell），依次输入以下命令确认安装成功：
